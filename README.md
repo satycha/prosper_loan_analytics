@@ -54,7 +54,7 @@
         
 ## Key Insights for Presentation
 
-Explorative analysis gave out bunch of key insights. I would like like to use visualizations that show top loan type, top professions (this could be used by prosper for targeted loan offering or selling that information to businesses for targeted ad) Thereafter I would like to visualize borrower apr vs income band to see how the interest rates vary based on income band 
+Explorative analysis gave out bunch of key insights. I would like like to use visualizations that show top loan type, top professions (this could be used by prosper for targeted loan offering or for selling that information to businesses for targeted ad) Thereafter I would like to visualize borrower apr vs income band to see how the interest rates vary based on income band 
 
 Finally, I would conclude with two multivariate plots
 
